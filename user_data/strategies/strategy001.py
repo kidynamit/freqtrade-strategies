@@ -12,10 +12,10 @@ import freqtrade.vendor.qtpylib.indicators as qtpylib
 
 
 # Update this variable if you change the class name
-class_name = 'CustomStrategy'
+class_name = 'CustomStrategy1'
 
 
-class CustomStrategy(IStrategy):
+class CustomStrategy1(IStrategy):
     """
     Prod strategy 001
     author@: Gerald Lonlas

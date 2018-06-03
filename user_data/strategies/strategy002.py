@@ -13,10 +13,10 @@ import numpy # noqa
 
 
 # Update this variable if you change the class name
-class_name = 'CustomStrategy'
+class_name = 'CustomStrategy2'
 
 
-class CustomStrategy(IStrategy):
+class CustomStrategy2(IStrategy):
     """
     Prod strategy 002
     author@: Gerald Lonlas

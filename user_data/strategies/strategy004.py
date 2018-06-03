@@ -11,10 +11,10 @@ import talib.abstract as ta
 
 
 # Update this variable if you change the class name
-class_name = 'CustomStrategy'
+class_name = 'CustomStrategy4'
 
 
-class CustomStrategy(IStrategy):
+class CustomStrategy4(IStrategy):
     """
     Prod strategy 004
     author@: Gerald Lonlas
